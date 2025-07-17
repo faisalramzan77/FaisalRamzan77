@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-Final year BSCS student at **NUML, Faisalabad**, working at the intersection of machine learning, AI, and software engineering.
+Final year BSCS student at **NUML Faisalabad** working at the intersection of Data Scientist, ML, Ai, and software engineering.
 
 - 🧠 Design, train, and serve machine learning models  
 - 📊 Translate raw data into actionable insights and predictions  
@@ -42,7 +42,7 @@ Final year BSCS student at **NUML, Faisalabad**, working at the intersection of 
 - Training deep learning models for classification, detection, and sequence tasks  
 - Applying NLP on real world datasets like public reviews and survey analysis  
 - Automating workflows with Python scripts and API integrations  
-- Building and testing microservices to serve ML models with real-time performance  
+- Building and testing microservices to serve ML models with real time performance  
 
 
 
@@ -51,7 +51,7 @@ Final year BSCS student at **NUML, Faisalabad**, working at the intersection of 
 - Regular problem solving on **LeetCode**  
 - Staying updated with trends in **AI and applied ML**  
 - Experimenting with **generative AI**, **LLMs**, and **AI-powered automation**  
-- Contributing to open-source and collaborative learning  
+- Contributing to open source and collaborative learning  
 
 
 
