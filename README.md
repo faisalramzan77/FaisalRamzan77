@@ -5,13 +5,6 @@
   I build intelligent systems using data, code, and logic.
 </p>
 
-<p align="center">
-  <a href="mailto:faisalramzanch77@gmail.com"><img src="https://img.shields.io/badge/Email-faisalramzanch77@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/faisalramzan77/"><img src="https://img.shields.io/badge/LinkedIn-Faisal%20Ramzan-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://leetcode.com/u/faisalramzan_77/"><img src="https://img.shields.io/badge/LeetCode-FaisalRamzan_77-orange?style=flat-square&logo=leetcode"></a>
-</p>
-
-
 ## 🧠 About Me
 
 Final year BSCS student at **NUML Faisalabad** working at the intersection of Data Scientist, ML, Ai, and software engineering.
