@@ -57,7 +57,7 @@ Final year BSCS student at **NUML Faisalabad** working at the intersection of Da
 
 
 
-## 📬 Contact Me
+## 📬 Connect with me
 **Faisal Ramzan**  
  Email: [faisalramzanch77@gmail.com](mailto:faisalramzanch77@gmail.com)  
  LinkedIn: [Faisal Ramzan](https://www.linkedin.com/in/faisalramzan77/)  
