@@ -26,7 +26,7 @@ Final year BSCS student at **NUML Faisalabad** working at the intersection of Da
 | **CV & Imaging**    | OpenCV, Pillow |
 | **Deployment**      | FastAPI, Flask, Streamlit |
 | **Data Platforms**  | Power BI, Google Sheets API |
-| **Tools**           | Jupyter, Git, GitHub, VS Code  |
+| **Tools**           | Jupyter, Git, GitHub, VS Code, Jupyter Notebook  |
 
 
 
