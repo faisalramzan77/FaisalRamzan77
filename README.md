@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Faisal Ramzan </h1>
 
 <p align="center">
-  <b>Data Scientist • ML Engineer • Software Engineer</b><br>
+  <b>Data Scientist • ML Engineer</b><br>
   I build intelligent systems using data, code, and logic.
 </p>
 
