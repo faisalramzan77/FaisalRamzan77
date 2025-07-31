@@ -51,7 +51,6 @@ Final year BSCS student at **NUML Faisalabad** working at the intersection of Da
 ## 📈 GitHub Stats
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=FaisalRamzan77&show_icons=true&theme=radical&logo=github" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalRamzan77&layout=compact&theme=radical" height="165">
 </p>
 
