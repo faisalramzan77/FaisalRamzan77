@@ -5,17 +5,17 @@
   I build intelligent systems using data, code, and logic.
 </p>
 
-## 🧠 About Me
+##  About Me
 
 Final year BSCS student at **NUML Faisalabad** working at the intersection of Data Scientist, ML, Ai, and software engineering.
 
-- 🧠 Design, train, and serve machine learning models  
-- 📊 Translate raw data into actionable insights and predictions  
-- 🧪 Strong focus on clean, testable code and performance optimization  
-- 💡 Always exploring new ideas, tools, and algorithms  
+-  Design, train, and serve machine learning models  
+-  Translate raw data into actionable insights and predictions  
+-  Strong focus on clean, testable code and performance optimization  
+-  Always exploring new ideas, tools, and algorithms  
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Domain             | Tools & Technologies |
 |--------------------|----------------------|
@@ -30,7 +30,7 @@ Final year BSCS student at **NUML Faisalabad** working at the intersection of Da
 
 
 
-## 🔍 What I'm Working On
+##  What I'm Working On
 
 - Training deep learning models for classification, detection, and sequence tasks  
 - Applying NLP on real world datasets like public reviews and survey analysis  
@@ -39,7 +39,7 @@ Final year BSCS student at **NUML Faisalabad** working at the intersection of Da
 
 
 
-## 💡 Also Into...
+##  Also Into...
 
 - Regular problem solving on **LeetCode**  
 - Staying updated with trends in **AI and applied ML**  
@@ -51,7 +51,7 @@ Final year BSCS student at **NUML Faisalabad** working at the intersection of Da
 
 
 
-## 📬 Connect with me
+##  Connect with me
 **Faisal Ramzan**  
  Email: [faisalramzanch77@gmail.com](mailto:faisalramzanch77@gmail.com)  
  LinkedIn: [Faisal Ramzan](https://www.linkedin.com/in/faisalramzan77/)  
