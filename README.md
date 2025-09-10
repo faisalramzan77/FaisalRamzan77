@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Scientist • ML Engineer</b><br>
-  I build intelligent systems using data, code, and logic.
+  I build intelligent systems using data, code and logic.
 </p>
 
 ##  About Me
