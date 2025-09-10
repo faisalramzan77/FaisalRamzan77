@@ -7,7 +7,7 @@
 
 ##  About Me
 
-Final year BSCS student at **NUML Faisalabad** working at the intersection of Data Scientist, ML, Ai, and software engineering.
+Final year BSCS student at **NUML Faisalabad** working at the intersection of Data Scientist, ML, AI and software engineering.
 
 -  Design, train, and serve machine learning models  
 -  Translate raw data into actionable insights and predictions  
