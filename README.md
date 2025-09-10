@@ -12,7 +12,7 @@ Final year BSCS student at **NUML Faisalabad** working at the intersection of Da
 -  Design, train, and serve machine learning models  
 -  Translate raw data into actionable insights and predictions  
 -  Strong focus on clean, testable code and performance optimization  
--  Always exploring new ideas, tools, and algorithms  
+-  Always exploring new ideas, tools and algorithms  
 
 
 ##  Tech Stack
@@ -43,7 +43,7 @@ Final year BSCS student at **NUML Faisalabad** working at the intersection of Da
 
 - Regular problem solving on **LeetCode**  
 - Staying updated with trends in **AI and applied ML**  
-- Experimenting with **generative AI**, **LLMs**, and **AI-powered automation**  
+- Experimenting with **generative AI**, **LLMs** and **AI-powered automation**  
 - Contributing to open source and collaborative learning  
 
 
