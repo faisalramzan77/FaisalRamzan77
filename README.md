@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Faisal Ramzan </h1>
 
 <p align="center">
-  <b>Data Scientist • ML Engineer</b><br>
+  <b>Data Scientist • Data Analyst</b><br>
   I build intelligent systems using data, code and logic.
 </p>
 
@@ -25,7 +25,7 @@ Final year BSCS student at **NUML Faisalabad** working at the intersection of Da
 | **Data Analysis**   | Pandas, NumPy, Matplotlib, Seaborn |
 | **CV & Imaging**    | OpenCV, Pillow |
 | **Deployment**      | FastAPI, Flask, Streamlit |
-| **Data Platforms**  | Power BI, Google Sheets API |
+| **Data Platforms**  | Tableau, Google Sheets API |
 | **Tools**           | Jupyter, Git, GitHub, VS Code, Jupyter Notebook  |
 
 
