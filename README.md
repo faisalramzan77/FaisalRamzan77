@@ -10,11 +10,11 @@
 BSCS graduate from **NUML Faisalabad** working across Software Engineering, AI Engineering, and Machine Learning.
 
 * Build scalable backend systems and intelligent AI solutions
-* Design, train, and deploy machine learning models
-* Develop clean, maintainable, and performance-focused applications
-* Work with APIs, databases, automation, and modern development tools
-* Transform raw data into practical insights and AI-driven solutions
-* Passionate about software architecture, AI systems, and continuous learning
+* Design, train and deploy machine learning models
+* Develop clean, maintainable and performance focused applications
+* Work with APIs, databases, automation and modern development tools
+* Transform raw data into practical insights and AI driven solutions
+* Passionate about software architecture, AI systems and continuous learning
 
 
 
@@ -23,7 +23,7 @@ BSCS graduate from **NUML Faisalabad** working across Software Engineering, AI E
 | Domain | Tools & Technologies |
 |---|---|
 | **Languages** | Python, SQL |
-| **Backend Development** | FastAPI, Flask, REST APIs |
+| **Backend Development** | FastAPI, Flask, REST APIs, Django |
 | **AI / Machine Learning** | scikit-learn, TensorFlow, PyTorch, Keras |
 | **NLP & LLMs** | transformers, spaCy, NLTK |
 | **Computer Vision** | OpenCV, Pillow |
@@ -43,8 +43,8 @@ BSCS graduate from **NUML Faisalabad** working across Software Engineering, AI E
 - Developing REST APIs and microservices with FastAPI and Flask  
 - Working on NLP and LLM based solutions using real world datasets  
 - Automating workflows with Python scripts and API integrations  
-- Improving application performance, clean architecture, and code quality  
-- Exploring software engineering practices, system design, and AI deployment    
+- Improving application performance, clean architecture and code quality  
+- Exploring software engineering practices, system design and AI deployment    
 
 
 
