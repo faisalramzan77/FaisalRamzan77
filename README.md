@@ -7,7 +7,7 @@
 
 ##  About Me
 
-BSCS graduate from **NUML Faisalabad** working across Software Engineering, AI Engineering, and Machine Learning.
+BSCS graduate from **NUML Faisalabad** working across Software Engineering, AI Engineering and Machine Learning.
 
 * Build scalable backend systems and intelligent AI solutions
 * Design, train and deploy machine learning models
