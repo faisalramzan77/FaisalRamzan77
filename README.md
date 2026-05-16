@@ -20,20 +20,14 @@ BSCS graduate from **NUML Faisalabad** working across Software Engineering, AI E
 
 ## Tech Stack
 
-| Domain | Tools & Technologies |
-|---|---|
-| **Languages** | Python, SQL |
-| **Backend Development** | FastAPI, Flask, REST APIs, Django |
-| **AI / Machine Learning** | scikit-learn, TensorFlow, PyTorch, Keras |
-| **NLP & LLMs** | transformers, spaCy, NLTK |
-| **Computer Vision** | OpenCV, Pillow |
-| **Data Analysis** | Pandas, NumPy, Matplotlib |
-| **Frontend Basics** | HTML, CSS, Streamlit |
-| **Databases** | MySQL, PostgreSQL |
-| **Version Control** | Git, GitHub |
-| **Development Tools** | VS Code, Jupyter Notebook |
-| **Deployment & Automation** | API Integration, Model Deployment, Automation Scripts |
-| **Core Concepts** | OOP, Data Structures, Problem Solving, Clean Code |
+| | Area | Tools |
+|---|---|---|
+| 🖥️ | **Languages** | Python · SQL |
+| ⚙️ | **Backend** | FastAPI · Flask · Django · REST APIs |
+| 🗄️ | **Databases** | PostgreSQL · MySQL |
+| 🤖 | **AI / ML** *(familiar)* | scikit-learn · TensorFlow · PyTorch · transformers · OpenCV · Pandas · NumPy |
+| 🔧 | **Tools** | Git · GitHub · VS Code · Jupyter · Streamlit |
+| 🧠 | **AI Tools** | Claude AI · n8n · Google Antigravity |
 
 
 ## What I'm Working On
