@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Faisal Ramzan </h1>
+<h1 align="center">Muhammad Faisal </h1>
 
 <p align="center">
   <b>Software Engineer • Ai Engineer • Backend Developer</b><br>
